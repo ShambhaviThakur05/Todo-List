@@ -1,0 +1,52 @@
+.Main_div{
+  margin: 0;
+  padding: 0;
+ 
+}
+h1{
+ text-align: center;
+
+}
+
+.task-box{
+ margin-left: 550px;
+ margin-top: 5%;
+  box-sizing: border-box;  
+  width: 500px; 
+ /* height: 400px;  */
+ background-color: rgb(24, 24, 24);
+ color: azure;
+ font-size: larger;
+ padding: 50px;
+ border-radius: 10px;
+ align-items: center;
+ 
+}
+
+.inputField{
+ display: flex;
+ justify-content: space-between;
+ width: 332px;
+ align-items: center;
+ 
+}
+
+.inputField input{
+ border-radius: 3px;
+ border: 0;
+ background-color: #ede7fe;
+ width: 260px;
+ height: 20px;
+ padding: 6px;
+ margin: 15px;
+}
+
+.inputField button{
+ width: 30px;
+ height: 30px;
+ border-radius: 50%;
+ padding: 0px;
+ border: 0;
+ font-size: larger;
+ 
+}
